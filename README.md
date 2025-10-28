@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/></a>
@@ -47,7 +47,7 @@
 ✅ SQL – **Intellipaat Certification**  
 ✅ CodeUnnati – **Skill Development Program**  
 ✅ Machine Learning Workshop – *(Project Based)*  
-🥈 **State Level Innovation Marathon – First Runner Up**
+ **State Level Innovation Marathon – First Runner Up**
 
 ---
 
