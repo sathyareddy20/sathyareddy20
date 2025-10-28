@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm sathyareddy</h1>
 
 <p align="center">
-  <b>Data Science Enthusiast | Python & SQL Developer | AI & Machine Learning Explorer | Streamlit & OpenCV Developer | Problem Solver | Open Source Contributor</b>
+  <b> Data Analyst| Data Science Enthusiast | Python & SQL Developer | AI & Machine Learning Explorer | Streamlit deeloper | Problem Solver | Open Source Contributor</b>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **[Your Project Name]**
+- 🔭 I’m currently working on  Creating a Interactive Dashboards
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Deep Learning, and AI**
 - 👯 I’m looking to collaborate on **Open Source AI/ML Projects**
-- 💬 Ask me about **Python, SQL, Data Science, or OpenCV**
-- 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: *I love solving real-world problems using data!*
+- 💬 Ask me about **Data Analytics Road Map,Python, SQL,powerbi and adv excel, Data Science,Machine learning Models **
+- Reach me out Mail: Sathyavanireddy516@gmail.com
+- ⚡ Fun fact: *I love Creating Interactive dashboards and habituated to develop skills!*
 
 ---
 
