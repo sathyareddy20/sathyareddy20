@@ -1,64 +1,83 @@
 <h1 align="center">Hi 👋, I'm Sathyareddy</h1>
 
 <p align="center">
-  <b>Data Analyst | Data Science Enthusiast | Python & SQL Developer | AI & Machine Learning Explorer | Streamlit Developer | Problem Solver</b>
+  <b>Data Analyst | Data Science Enthusiast | Python & SQL Developer | AI & Machine Learning Explorer | Streamlit Developer</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Interactive Dashboards & AI/ML Projects**
-- 🌱 I’m learning **Machine Learning, Data Analytics, Deep Learning, and AI**
-- 👯 I’m looking to collaborate on **Open Source AI/ML & Data Science Projects**
-- 💬 Ask me about **Data Analytics Roadmap, Python, SQL, Power BI, Machine Learning Models**
-- 📫 Reach me: **Sathyavanireddy516@gmail.com**
-- ⚡ Fun fact: *I love creating powerful visual dashboards and solving real-world problems!*
+- 🔭 Currently working on **Interactive Dashboards & AI Projects**
+- 🌱 Learning **Machine Learning, Deep Learning & Analytics**
+- 👯 Open to collaborate on **AI, Data Science & Open Source Projects**
+- 💬 Ask me about **Python, SQL, Power BI, Data Science Roadmap**
+- 📩 Reach me at **Sathyavanireddy516@gmail.com**
+- ⚡ I love creating **real-world ML projects & dashboards!**
 
 ---
 
-### 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/></a>
+  <a href="#"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50" height="50"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/></a>
+  <a href="#"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="80" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
+</p>
+
+---
+
+### 📊 Data Science Tools
+<p align="left">
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90" height="50"/></a>
+  <a href="#"><img src="https://numpy.org/images/logo.svg" width="80" height="50"/></a>
+  <a href="#"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" height="50"/></a>
+  <a href="#"><img src="https://matplotlib.org/_static/logo2_compressed.svg" width="80" height="50"/></a>
 </p>
 
 ---
 
 ### 🏅 Certifications
-- ✅ Python Programming – **Cisco Certification**
-- ✅ SQL Certification – **Intellipaat**
-- ✅ CodeUnnati – **Professional Certification Program**
-- 🥈 **State Level Innovation Marathon – First Runner Up**
-- 📜 Data Analytics & Machine Learning – *Self Projects & Training*
+✅ Python Certification – **Cisco**  
+✅ SQL – **Intellipaat Certification**  
+✅ CodeUnnati – **Skill Development Program**  
+✅ Machine Learning Workshop – *(Project Based)*  
+🥈 **State Level Innovation Marathon – First Runner Up**
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/sathyareddy20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Sathyavanireddy516@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 🌐 Connect with Me
+<p>
+<a href="https://linkedin.com/in/sathyareddy20" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Sathyavanireddy516@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180"/>
 </p>
 
 ---
 
 ### 🔥 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 💡 Quote
-<p align="center"><i>"Consistency beats talent — keep learning, keep building!"</i></p>
+<p align="center">
+  <b>“Consistency and Practice turns everything into possible.”</b>
+</p>
