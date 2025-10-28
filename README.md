@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sathyareddy</h1>
 
 <p align="center">
-  <b> Data Analyst| Data Science Enthusiast | Python & SQL Developer | AI & Machine Learning Explorer | Streamlit deeloper | Problem Solver | Open Source Contributor</b>
+  <b> Data Analyst| Data Science Enthusiast | Python & SQL Developer | AI & Machine Learning Explorer | Streamlit developer | Problem Solver | Open Source Contributor</b>
 </p>
 
 ---
